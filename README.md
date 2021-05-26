@@ -1,4 +1,4 @@
-# Landing Page Project
+# Weather Journal App
 
 ## Weather Journal App (Front End Developer Udacity Nanodegree)
 What I used: HTML, CSS, Javascript 
