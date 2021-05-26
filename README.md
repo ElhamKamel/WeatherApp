@@ -1,5 +1,6 @@
-﻿Weather Journal App 
-Project 2 - Weather Journal App (Front End Developer Udacity Nanodegree)
+# Landing Page Project
+
+## Weather Journal App (Front End Developer Udacity Nanodegree)
 What I used: HTML, CSS, Javascript 
 Project Objective
 This project was about working with Web APIs and asynchronous code, creating a web app that uses OpenWeatherMap API to get weather based on user's location, and dynamically update UI.
